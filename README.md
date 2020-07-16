@@ -1,2 +1,4 @@
 # expenseTracker
-Expense tracker made with React 
+
+React app #2
+Expense tracker made with React
